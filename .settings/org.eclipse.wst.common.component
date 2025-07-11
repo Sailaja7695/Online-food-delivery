@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="online_food_delivery_backend_java">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <property name="context-root" value="online_food_delivery_backend_java"/>
+        <property name="java-output-path" value="/online_food_delivery_backend_java/bin"/>
+    </wb-module>
+</project-modules>
