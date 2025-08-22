@@ -5,8 +5,8 @@ This is the backend of an **Online Food Delivery System**, developed in **Java**
 
 ## 🛠 Technologies Used  
 - *Programming Language:* Java  
-- *IDE:** Eclipse  
-- *Database:** MySQL (or PostgreSQL – based on your choice)* 
+- *IDE:* Eclipse  
+- *Database:* MySQL (or PostgreSQL – based on your choice)* 
 - *Frameworks/Libraries:*Spring Boot, JDBC 
 ## 📂 Features Implemented  
 ✅ **User Authentication** (Login/Signup for customers & restaurants)  
