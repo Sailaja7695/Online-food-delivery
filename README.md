@@ -6,9 +6,8 @@ This is the backend of an **Online Food Delivery System**, developed in **Java**
 ## 🛠 Technologies Used  
 - **Programming Language:** Java  
 - **IDE:** Eclipse  
-- **Database:** (Mention if used, e.g., MySQL, PostgreSQL)  
-- **Frameworks/Libraries:** (Mention if used, e.g., Spring Boot, JDBC)  
-
+- **Database:** MySQL *(or PostgreSQL – based on your choice)* 
+- **Frameworks/Libraries:**Spring Boot, JDBC 
 ## 📂 Features Implemented  
 ✅ **User Authentication** (Login/Signup for customers & restaurants)  
 ✅ **Restaurant & Menu Management** (CRUD operations for restaurants & food items)  
@@ -17,23 +16,15 @@ This is the backend of an **Online Food Delivery System**, developed in **Java**
 ✅ **Delivery Status Tracking**  
 
 ## 🚀 How to Run This Project  
-1. **Clone the repository:**  
-   ```sh
-   git clone https://github.com/your-repo-name.git
-   cd Online-Food-Delivery-System
-
+1. Clone the repository
 2. Open in Eclipse:
-
-    Open Eclipse IDE
+   Open Eclipse IDE
     Import the project (File → Import → Existing Projects into Workspace)
     Select the project folder and click Finish
 3. Configure the database (if applicable):
-
-     Update database connection settings in the configuration file.
-
+   Update database connection settings in the configuration file.
 4. Run the project:
-
-    Right-click on the project → Run As → Java Application
+ Right-click on the project → Run As → Java Application
 
    
 ## 🔗 API Endpoints  
@@ -54,5 +45,7 @@ This is the backend of an **Online Food Delivery System**, developed in **Java**
     🔹 Implement real-time order tracking
     🔹 Add a rating & review system
 
-## 📜 License
-    This project is licensed under the MIT License.
+## 📫Contact
+   - Email: penagalurisailaja@gmail.com
+   - LinkedIn: https://www.linkedin.com/in/penagalurisailaja 
+⭐ **Give a star** if you like the project and feel free to fork or contribute!
