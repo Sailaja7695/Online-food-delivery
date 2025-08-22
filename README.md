@@ -4,10 +4,10 @@
 This is the backend of an **Online Food Delivery System**, developed in **Java** using **Eclipse**. The system manages restaurant listings, user orders, payments, and delivery status. It provides APIs for frontend integration, ensuring smooth food ordering and tracking.  
 
 ## 🛠 Technologies Used  
-- **Programming Language:** Java  
-- **IDE:** Eclipse  
-- **Database:** MySQL *(or PostgreSQL – based on your choice)* 
-- **Frameworks/Libraries:**Spring Boot, JDBC 
+- *Programming Language:* Java  
+- *IDE:** Eclipse  
+- *Database:** MySQL (or PostgreSQL – based on your choice)* 
+- *Frameworks/Libraries:*Spring Boot, JDBC 
 ## 📂 Features Implemented  
 ✅ **User Authentication** (Login/Signup for customers & restaurants)  
 ✅ **Restaurant & Menu Management** (CRUD operations for restaurants & food items)  
